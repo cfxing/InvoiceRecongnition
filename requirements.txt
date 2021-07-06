@@ -1,0 +1,105 @@
+astunparse==1.6.3
+beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+Brotli @ file:///C:/ci/brotli-split_1602517705222/work
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1613247279197/work
+chardet @ file:///C:/ci/chardet_1607690654534/work
+ci-info==0.2.0
+click @ file:///tmp/build/80754af9/click_1620867881259/work
+colorama==0.4.4
+configobj==5.0.6
+configparser==5.0.2
+coverage @ file:///C:/ci/coverage_1614615074147/work
+cryptography @ file:///C:/ci/cryptography_1616769344312/work
+Cython @ file:///C:/ci/cython_1618435363327/work
+datefinder==0.7.1
+decorator==4.4.2
+etelemetry==0.2.2
+filelock==3.0.12
+fitz==0.0.1.dev2
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-Compress @ file:///tmp/build/80754af9/flask-compress_1613587450386/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+Flask-JSON==0.3.4
+flatbuffers==2.0
+future==0.18.2
+gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+google-pasta==0.2.0
+grpcio @ file:///C:/ci/grpcio_1614884412260/work
+httplib2==0.19.1
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1617877484576/work
+imutils==0.5.4
+isodate==0.6.0
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+jeepney==0.6.0
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1621238361758/work
+keyring @ file:///C:/ci/keyring_1614616910860/work
+lxml==4.6.3
+magickwand==0.2
+Markdown @ file:///C:/ci/markdown_1614364121613/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528314575/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1618854156666/work
+mkl-service==2.3.0
+mock @ file:///tmp/build/80754af9/mock_1607622725907/work
+networkx==2.5.1
+nibabel==3.2.1
+nipype==1.6.0
+numpy==1.20.3
+olefile==0.46
+opencv-contrib-python==4.5.2.52
+packaging==20.9
+pandas==1.2.4
+pathlib==1.0.1
+pdf2image==1.15.1
+pdfminer.six==20200517
+pdfplumber==0.5.28
+Pillow @ file:///C:/ci/pillow_1617386341487/work
+protobuf==3.14.0
+prov==2.0.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycryptodome==3.10.1
+pydot==1.4.2
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+PyPDF2==1.26.0
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.1.0
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqt5-tools==5.15.4.3.0.3
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytesseract==0.3.7
+python-dotenv==0.17.1
+pytz==2021.1
+pywin32-ctypes==0.2.0
+pyxdg @ file:///tmp/build/80754af9/pyxdg_1603822279816/work
+pyxnat==1.4
+qt5-applications==5.15.2.2.1
+qt5-tools==5.15.2.1.0.1
+rdflib==5.0.0
+regex==2021.4.4
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+SecretStorage==3.3.1
+simplejson==3.17.2
+sip==4.19.13
+six @ file:///C:/ci/six_1605187374963/work
+sortedcontainers==2.4.0
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1616183228191/work
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+torch==1.8.1+cpu
+torchaudio==0.8.1
+torchvision==0.9.1+cpu
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+traits==6.2.0
+typing-extensions==3.10.0.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+Wand==0.6.6
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
